@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Computer Science student from Poland, building things in C# and .NET — desktop apps, web with Blazor, and databases. Still figuring out which direction to pursue.</h3>
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Astro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
